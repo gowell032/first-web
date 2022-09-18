@@ -1,0 +1,67 @@
+body {
+    margin: 0 auto;
+}
+
+header {
+    padding: 1.2rem;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.head-home {
+    font-weight: bold;
+    font-size: 1.2rem;;
+}
+.head-about {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.head-contact {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+a:link {
+    text-decoration: none;
+    color:#3f464d;;
+}
+a:visited {
+    text-decoration: none;
+    color:#3f464d;;
+}
+a:active {
+    text-decoration: none;
+    color: #3f464d;
+}
+a:hover {
+    text-decoration: none;
+    color: #3f464d;
+}
+.background {
+    width: 100%;
+    height: 100vh;
+}
+
+.mail {
+    margin-top: 10rem;
+    text-align: center;
+}
+
+.aboutme-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 20rem;
+}
+
+.profile {
+    width: 40%;
+    margin-top: 2rem;
+}
+
+.aboutme-p {
+    margin-left: 1rem;
+}
